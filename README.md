@@ -2,7 +2,7 @@
 
 > A structured, hands-on learning series covering modern .NET and C# — from language internals to production-grade patterns, frameworks, and performance engineering.
 
-Each lesson is designed to be completed in **15–20 minutes**: a focused concept, working code, and a practical exercise you can apply in real projects immediately.
+**This project was created for my own purposes. Each lesson has a 15-20 min effort. I hope it will be my daily routine task that improves my skills**
 
 ---
 
